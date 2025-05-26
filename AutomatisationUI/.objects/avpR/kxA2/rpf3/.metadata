@@ -1,0 +1,13 @@
+﻿{
+  "Name": "wikipedia",
+  "Type": "Screen",
+  "Id": "rpf3b8qTEUWV_4HwXk-_fg",
+  "Reference": "WuW4eT2-q0yWPpIpsJklkw/rpf3b8qTEUWV_4HwXk-_fg",
+  "ParentRef": "WuW4eT2-q0yWPpIpsJklkw/kxA2r1WleECqgvGC1T070A",
+  "Created": "2025-05-26T10:35:44.341789Z",
+  "Updated": "2025-05-26T10:35:44.341789Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

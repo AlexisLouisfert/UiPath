@@ -1,0 +1,14 @@
+﻿{
+  "Name": "chrome.exe BBC News - B…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "PCurg1uciUiFalw8XhoBUA",
+  "Reference": "WuW4eT2-q0yWPpIpsJklkw/PCurg1uciUiFalw8XhoBUA",
+  "ParentRef": "WuW4eT2-q0yWPpIpsJklkw/Y6iqpStuZESOVGKiidKAkA",
+  "Created": "2025-05-26T11:48:02.6826143Z",
+  "Updated": "2025-05-26T11:48:02.6826143Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

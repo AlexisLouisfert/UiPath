@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BBnCC0yxZ0OnroY15TNexA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wikipedia.org" CVScreenId="5713c8ce-73e9-4ccf-a715-590107019531" CvElementArea="676, 747, 496, 58" CvType="InputBox" DesignTimeRectangle="678, 815, 493, 55" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='searchInput' tag='INPUT' /&gt;" Guid="dfc8bc14-a0f3-416b-b9ad-fd474620dd41" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Wikipedia' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="e7339a0a9f66b7954448e95dae114e3c.png" xmlns="">0DwurA_kdtkau-NPLu0ywsA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

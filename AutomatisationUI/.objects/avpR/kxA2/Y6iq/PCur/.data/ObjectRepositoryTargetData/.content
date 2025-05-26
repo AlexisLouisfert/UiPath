@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9dStFGv1hUm4sguFiWOKnQ" Reference="WuW4eT2-q0yWPpIpsJklkw/PCurg1uciUiFalw8XhoBUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bbc.com/news" DesignTimeRectangle="180, 638, 375, 68" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='P' /&gt;" Guid="808fe0b4-1b54-4cb0-930a-0d4197fecdcf" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='48297407' title='BBC News - Breaking news, video and the latest top stories from the U.S. and around the world' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="1b457b0eba6d8f583fae4bb46762538e.png" xmlns="">0NyAK1WKD402QYh7iBEVUSQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
