@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="K93vlS6-iEqlvPwFjlWuVQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="formsmarts.com/html-form-example" CVScreenId="78c24987-c67d-4688-bf1b-fa3db8e508f9" CvElementArea="379, 573, 499, 51" CvType="InputBox" DesignTimeRectangle="382, 575, 495, 48" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl src='https://formsmarts.com/form/yx?mode=h5embed&amp;amp;lay=1' tag='IFRAME' matching:src='fuzzy' fuzzylevel:src='0.0' /&gt;&lt;webctrl id='u_yvZ_4608' tag='INPUT' type='email' class=' u-full-width' placeholder='Your email address' aaname='Email *' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' fuzzylevel:aaname='0.0' /&gt;" Guid="fb321fd0-b4d5-4812-bee6-5d2aa536d8b8" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Web Form Example' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="78c24987-c67d-4688-bf1b-fa3db8e508f9" CvTextArea="290, 587, 68, 19" CvTextArgument="Email *" CvType="Text" DesignTimeRectangle="134, 578, 243, 39" ElementType="Text" FuzzyAccuracy="0.75" FuzzySelectorArgument="&lt;webctrl src='https://formsmarts.com/form/yx?mode=h5embed&amp;amp;lay=1' tag='IFRAME' matching:src='fuzzy' /&gt;&lt;webctrl aaname='Email ' check:innerText='Email *' /&gt;" Guid="f4a33b8c-c99d-4215-81ed-8b84ddcf042d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="73ecc14479021b20c577a94aeca505a5.png" xmlns="">0E2M3nNaT0ka39ci04DAnxQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

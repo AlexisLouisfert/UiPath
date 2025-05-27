@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mZU2RDkQ2kK9X_QER__FXA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="formsmarts.com/html-form-example" DesignTimeRectangle="133, 542, 750, 60" ElementType="Text" FuzzyAccuracy="0.75" FuzzySelectorArgument="&lt;webctrl src='https://formsmarts.com/form/yx?mode=h5embed&amp;amp;lay=1' tag='IFRAME' matching:src='fuzzy' /&gt;&lt;webctrl tag='P' /&gt;" Guid="ff933ffc-b97a-47ac-bdd9-b5b789fee89a" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Web Form Example' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="cd325bdafde81828ff6ad7b2a584101b.png" xmlns="">0nt3WCctU0EuRChHiLkKYqw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

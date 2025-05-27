@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_VFI8Pcv00a2qmUIUbjpqw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="formsmarts.com/html-form-example" CVScreenId="d9107559-242a-457d-96b7-6f80a042fc30" CvElementArea="575, 581, 498, 51" CvType="InputBox" DesignTimeRectangle="577, 584, 495, 48" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl src='https://formsmarts.com/form/yx?mode=h5embed&amp;amp;lay=1' tag='IFRAME' matching:src='fuzzy' fuzzylevel:src='0.0' /&gt;&lt;webctrl id='u_c63_4608' tag='INPUT' type='email' class=' u-full-width' placeholder='Your email address' aaname='Email *' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' fuzzylevel:aaname='0.0' /&gt;" Guid="d00b8d81-094f-4760-a1b2-0c121ad4e1bd" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Web Form Example' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d9107559-242a-457d-96b7-6f80a042fc30" CvTextArea="485, 596, 67, 20" CvTextArgument="Email *" CvType="Text" DesignTimeRectangle="485, 596, 68, 19" ElementType="Text" FuzzyAccuracy="0.75" FuzzySelectorArgument="&lt;webctrl tag='IFRAME' check:innerText='Email *' /&gt;" Guid="46a9d7f8-d5c6-4e9e-b2ea-e8498dde86c1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9c1ccf8f63c129147edf42e01452482e.png" xmlns="">0onGpUKIJIUaNy9KqHTQt6w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

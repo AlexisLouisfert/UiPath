@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="N3Ot2tSDzkeCF_jMSq426A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="formsmarts.com/html-form-example" CVScreenId="651c07d5-44cc-4dca-88d2-920bb7d2e8a3" CvElementArea="379, 453, 499, 50" CvType="InputBox" DesignTimeRectangle="382, 455, 495, 48" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl src='https://formsmarts.com/form/yx?mode=h5embed&amp;amp;lay=1' tag='IFRAME' matching:src='fuzzy' fuzzylevel:src='0.0' /&gt;&lt;webctrl id='u_yvZ_4607' tag='INPUT' type='text' class=' u-full-width' placeholder='Your first name' aaname='First Name *' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' fuzzylevel:aaname='0.0' /&gt;" Guid="c55b9389-045c-45d7-814f-01f3edd655dc" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Web Form Example' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="651c07d5-44cc-4dca-88d2-920bb7d2e8a3" CvTextArea="243, 467, 114, 20" CvTextArgument="First Name *" CvType="Text" DesignTimeRectangle="134, 458, 243, 39" ElementType="Text" FuzzyAccuracy="0.75" FuzzySelectorArgument="&lt;webctrl src='https://formsmarts.com/form/yx?mode=h5embed&amp;amp;lay=1' tag='IFRAME' matching:src='fuzzy' /&gt;&lt;webctrl aaname='First Name ' check:innerText='First Name *' /&gt;" Guid="5663f52f-4308-4a3f-ab54-52147ff86726" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e91b882cefffcedb4209c5b4c81cb7e5.png" xmlns="">08bsjydlobkW8H9c5gSboQQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

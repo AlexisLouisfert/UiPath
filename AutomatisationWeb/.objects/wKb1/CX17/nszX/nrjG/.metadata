@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Confirm →",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "nrjGLmFUiEaRJbFag02PNw",
+  "Reference": "2opxycrCS0WMkymfmvM9Ag/nrjGLmFUiEaRJbFag02PNw",
+  "ParentRef": "2opxycrCS0WMkymfmvM9Ag/nszXuzi_LUGxk77Nyxhl2Q",
+  "Created": "2025-05-27T14:09:03.7915209Z",
+  "Updated": "2025-05-27T14:09:03.7915209Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

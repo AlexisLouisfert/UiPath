@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LFpFYJw-8ESjvZRnYHIxmA" Reference="2opxycrCS0WMkymfmvM9Ag/V2lajLxjukehlzrpbTEACg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="formsmarts.com/html-form-example" CVScreenId="d9107559-242a-457d-96b7-6f80a042fc30" CvElementArea="575, 641, 499, 51" CvType="InputBox" DesignTimeRectangle="575, 641, 498, 50" ElementType="DropDown" FuzzyAccuracy="0.75" FuzzySelectorArgument="&lt;webctrl aaname='Subject of Your Inquiry *' /&gt;" Guid="8bd1e1a0-46e8-4972-bab3-dff359229588" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Web Form Example' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d9107559-242a-457d-96b7-6f80a042fc30" CvTextArea="334, 655, 219, 23" CvTextArgument="Subject of Your Inquiry *" CvType="Text" DesignTimeRectangle="335, 655, 218, 23" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='IFRAME' check:innerText='Subject of Your Inquiry *' /&gt;" Guid="cf1eb6f9-7df7-4f4c-8fdb-3221244617e2" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4e55beac1eb626cf27242a82434d1df2.png" xmlns="">0oLd1Gfbnf0O96LPjxOeS9Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

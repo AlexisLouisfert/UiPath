@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JUfpLZqDXEePSK05ZrIqEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="formsmarts.com/html-form-example" CVScreenId="ab70d4a2-2e82-4994-bb14-b70b05e327da" CvElementArea="575, 462, 498, 50" CvType="InputBox" DesignTimeRectangle="577, 464, 495, 48" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl src='https://formsmarts.com/form/yx?mode=h5embed&amp;amp;lay=1' tag='IFRAME' matching:src='fuzzy' fuzzylevel:src='0.0' /&gt;&lt;webctrl id='u_c63_4607' tag='INPUT' type='text' class=' u-full-width' placeholder='Your first name' aaname='First Name *' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' fuzzylevel:aaname='0.0' /&gt;" Guid="c5e3538d-9dc9-43f6-806d-e575b2f1456b" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Web Form Example' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ab70d4a2-2e82-4994-bb14-b70b05e327da" CvTextArea="437, 475, 115, 21" CvTextArgument="First Name *" CvType="Text" DesignTimeRectangle="437, 476, 116, 20" ElementType="Text" FuzzyAccuracy="0.75" FuzzySelectorArgument="&lt;webctrl tag='IFRAME' check:innerText='First Name *' /&gt;" Guid="49cdeba2-8c6b-41ff-9c60-9cbdf5bc038d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="399eadd91ac20cc98e00da19c4a7c791.png" xmlns="">0nTsosKbxZ0G6_bzqtY3AfQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

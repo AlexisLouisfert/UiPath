@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="E9CUU8EbuUqgK6VFTxuV6Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="formsmarts.com/html-form-example" CVScreenId="b2b677e3-b9cb-4ca1-9fee-d91a01460de7" CvElementArea="318, 533, 172, 51" CvTextArea="356, 550, 93, 16" CvTextArgument="CONFIRM -" CvType="Button" DesignTimeRectangle="320, 535, 168, 48" ElementType="Button" FuzzySelectorArgument="&lt;webctrl src='https://formsmarts.com/form/yx?mode=h5embed&amp;amp;lay=1' tag='IFRAME' matching:src='fuzzy' /&gt;&lt;webctrl aaname='Confirm →' check:text='Confirm →' /&gt;" Guid="6f3cc82b-e425-464f-b87b-c3f64c09de62" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Web Form Example' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="b5dd0dfbb31174cf5f928fef9ef40584.png" xmlns="">0eYINkr3ZjUCgxaRbXK6Fow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

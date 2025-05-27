@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="v-Kdbvkv60G192qPCOjcqg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="formsmarts.com/html-form-example" CVScreenId="1484aee4-a07e-45ff-9198-2348d2138664" CvElementArea="380, 633, 498, 51" CvType="InputBox" DesignTimeRectangle="382, 635, 495, 48" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl src='https://formsmarts.com/form/yx?mode=h5embed&amp;amp;lay=1' tag='IFRAME' matching:src='fuzzy' /&gt;&lt;webctrl id='u_yvZ_338367' /&gt;" Guid="4831d377-a424-46d4-92bc-6bd022ad2dda" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Web Form Example' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1484aee4-a07e-45ff-9198-2348d2138664" CvTextArea="139, 647, 218, 23" CvTextArgument="Subject of Your Inquiry *" CvType="Text" DesignTimeRectangle="134, 638, 243, 39" ElementType="Text" FuzzySelectorArgument="&lt;webctrl src='https://formsmarts.com/form/yx?mode=h5embed&amp;amp;lay=1' tag='IFRAME' matching:src='fuzzy' fuzzylevel:src='0.0' /&gt;&lt;webctrl aaname='Subject of Your Inquiry ' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Subject of Your Inquiry *' /&gt;" Guid="12ccb274-1e64-4dba-9351-a6cfae736a90" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6a284515d4ce8d7b2ee32cdac8a4e4a1.png" xmlns="">05m7bCZW6u0GwE2JoE6bJ4g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
