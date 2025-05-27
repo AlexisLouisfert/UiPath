@@ -1,0 +1,32 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "messageFormate&Sequence_5",
+        "montant&Sequence_5",
+        "dateActuelle&Sequence_5",
+        "nom&Sequence_5",
+        "resultatsEmails&Sequence_1",
+        "texteEmail&Sequence_3",
+        "texteMinuscule&Sequence_2",
+        "sousChaine&Sequence_2",
+        "texteConcatene&Sequence_2",
+        "texteMajuscule&Sequence_2",
+        "texteOriginal&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

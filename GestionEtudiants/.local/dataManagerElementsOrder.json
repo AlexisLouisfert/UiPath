@@ -1,0 +1,42 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main (Enregistré automatiquement).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "nomsEtudiants&Sequence_1",
+        "agesEtudiants&Sequence_1",
+        "villesEtudiants&Sequence_1",
+        "etudiantsParVille&Sequence_1",
+        "variable1&Sequence_1",
+        "newvilleEtudiantville&Sequence_8"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "villeRecherche&Sequence_1",
+        "nomRecherche&Sequence_1",
+        "nomsEtudiants&Sequence_1",
+        "agesEtudiants&Sequence_1",
+        "villesEtudiants&Sequence_1",
+        "etudiantsParVille&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

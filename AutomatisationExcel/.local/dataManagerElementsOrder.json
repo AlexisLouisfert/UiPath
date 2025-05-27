@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "saintdata&Sequence_1",
+        "sacredsheet&Sequence_1",
+        "holysheet&Sequence_1",
+        "varexcel&Sequence_1",
+        "datatableoui&Sequence_1",
+        "lesdonneesexcel&Sequence_1",
+        "datatable1&Sequence_1",
+        "lesdonnees&Sequence_1",
+        "tableDeDonnées&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
