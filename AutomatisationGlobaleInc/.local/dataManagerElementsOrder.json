@@ -30,6 +30,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "PdfdtTable&Sequence_1",
         "TabledtCommande&Sequence_1",
         "globaldtTable&Sequence_1"
       ],
@@ -82,9 +83,43 @@
     {
       "Path": "Emails/EnvoyerEmailsConfirmation.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "emailClient&Sequence_1"
+      ],
       "ArgumentsSectionElementsOrder": [
         "TabledtCommande"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "PDFs/ExtraireDonneesPDF.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "stringpdf&Sequence_1",
+        "variable1&Sequence_1",
+        "Montant&Sequence_1",
+        "varMontant&Sequence_1",
+        "jointure&Sequence_1",
+        "varDate&Sequence_1",
+        "varNom&Sequence_1",
+        "Dateemission&Sequence_1",
+        "Extractpdf&Sequence_1",
+        "Nom&Sequence_1",
+        "varfacture&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "PdfdtTable"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Rapports/GenererRapport.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "PdfdtTable"
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null

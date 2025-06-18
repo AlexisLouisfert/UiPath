@@ -5,6 +5,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.0.1]",
+    "UiPath.GSuite.Activities": "[3.2.0-preview]",
     "UiPath.System.Activities": "[25.4.2]"
   },
   "webServices": [],
