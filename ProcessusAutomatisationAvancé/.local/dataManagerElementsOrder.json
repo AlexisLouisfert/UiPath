@@ -3,7 +3,7 @@
     {
       "Path": null,
       "SortBy": 0,
-      "VariablesSectionElementsOrder": null,
+      "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": null,
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
@@ -12,14 +12,14 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "indice&Sequence_1",
-        "verifemail&Sequence_1",
-        "tableDeDonnées&Sequence_1",
-        "thedatas&Sequence_5",
         "newdatatable&Sequence_1",
         "newdatafilter&Sequence_1",
         "newdata&Sequence_1",
-        "variable1&Sequence_1"
+        "variable1&Sequence_1",
+        "tableDeDonnées&Sequence_1",
+        "verifemail&Sequence_1",
+        "indice&Sequence_1",
+        "thedatas&Sequence_5"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],

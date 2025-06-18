@@ -1,0 +1,93 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Commandes/LireEtFiltrerCommandes.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "indice&Sequence_1",
+        "stringglobaldtTable&Sequence_1",
+        "variable2&Sequence_1",
+        "stringfiltercommandedumois&Sequence_1",
+        "filtercommandedumois&Sequence_1",
+        "commandedumois&Sequence_1",
+        "varmois&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "globaldtTable"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TabledtCommande&Sequence_1",
+        "globaldtTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "listerreur"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Clients/VerifierInformationsClients.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "isValide&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "listerreur",
+        "globaldtTable"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Clients/ValidationClient.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "isValide&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "listerreur",
+        "rowClient"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Commandes/EnregistrerCommandes.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "valide&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "listerreur",
+        "TabledtCommande",
+        "globaldtTable"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Emails/EnvoyerEmailsConfirmation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "TabledtCommande"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
