@@ -12,6 +12,8 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "tableVilleparListSession&Sequence_1",
+        "tableParticipantparVille&Sequence_1",
         "dicodatatable&Sequence_1",
         "dicoParticipantparVille&Sequence_1",
         "dicoVilleparListSession&Sequence_1",
