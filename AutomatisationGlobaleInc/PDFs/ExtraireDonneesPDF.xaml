@@ -101,7 +101,7 @@
       <AssemblyReference>System.IO.FileSystem.DriveInfo</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="ExtraireDonneesPDF" sap:VirtualizedContainerService.HintSize="1473.2,2332.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="ExtraireDonneesPDF" sap:VirtualizedContainerService.HintSize="1473.2,2102.4" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="scg:List(x:String)" Name="varfacture" />
       <Variable x:TypeArguments="scg:IEnumerable(str:Match)" Name="Nom" />
@@ -120,7 +120,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence sap:VirtualizedContainerService.HintSize="537.6,2309.6" sap2010:WorkflowViewState.IdRef="Sequence_4">
+    <Sequence sap:VirtualizedContainerService.HintSize="537.6,2079.2" sap2010:WorkflowViewState.IdRef="Sequence_4">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -135,7 +135,7 @@
           <InArgument x:TypeArguments="scg:List(x:String)">[New List(Of String) From {"Facture1","Facture2","Facture3","Facture4","Facture5"}]</InArgument>
         </Assign.Value>
       </Assign>
-      <ui:ForEach x:TypeArguments="x:String" CurrentIndex="{x:Null}" DisplayName="For Each currentText" sap:VirtualizedContainerService.HintSize="504,1799.2" sap2010:WorkflowViewState.IdRef="ForEach`1_2" Values="[varfacture]">
+      <ui:ForEach x:TypeArguments="x:String" CurrentIndex="{x:Null}" DisplayName="For Each currentText" sap:VirtualizedContainerService.HintSize="504,1790.4" sap2010:WorkflowViewState.IdRef="ForEach`1_2" Values="[varfacture]">
         <ui:ForEach.Body>
           <ActivityAction x:TypeArguments="x:String">
             <ActivityAction.Argument>
@@ -236,8 +236,6 @@
           </ActivityAction>
         </ui:ForEach.Body>
       </ui:ForEach>
-      <ui:OutputDataTable DataTable="[PdfdtTable]" DisplayName="Output Data Table as Text" sap:VirtualizedContainerService.HintSize="504,112.8" sap2010:WorkflowViewState.IdRef="OutputDataTable_1" Text="[stringpdf]" />
-      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="504,108.8" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[stringpdf]" />
     </Sequence>
   </Sequence>
 </Activity>
